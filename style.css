@@ -1,5 +1,5 @@
 header {
-  background-image: url(../img/bg1.png);
+  background-image: url(../img/wb1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -7,7 +7,6 @@ header {
   min-height: 500px;
 }
 /*bodymovin*/
-
 #bm {
   width: 250px;
 }
